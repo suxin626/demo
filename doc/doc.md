@@ -1,4 +1,4 @@
-# README
+# DOC copy from readme
 
 Hello Git!
 
